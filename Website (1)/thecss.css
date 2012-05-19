@@ -1,0 +1,68 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#info {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	color: #666;
+	left: 25px;
+}
+
+#infotitle {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18x;
+	font-style: normal;
+	color: #F09;
+}
+
+
+#frame {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	color: #666;
+	position: absolute;
+	height: 400px;
+	width: 550px;
+	top: 100px;
+	left: 500px;
+}
+
+#contents {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	position: absolute;
+	height: 400px;
+	width: 350x;
+	top: 285px;
+	left: 300px;
+	text-align:right;
+}
+
+#main {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	color: #666;
+	position: absolute;
+	height: 800px;
+	width: 1000px;
+	scrollbar-base-color: orange; 
+	scrollbar-arrow-color: green;
+	scrollbar-DarkShadow-Color: blue;
+}
+
+#logo {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	color: #666;
+	position: absolute;
+	height: 172px;
+	width: 10px;
+	top: 20px;
+	left: 100px;
+}

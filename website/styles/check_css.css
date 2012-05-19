@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header
+
+{
+	background-repeat:repeat;
+	position:absolute;
+	top: 0px;
+	width: 2000px;
+	height: 125px;
+	left: 0px;
+}
+
+#MenuBar1  {
+	font-family: "Trebuchet MS", Arial, Helvetica,sans-seri;
+	font-size: 16px;
+	top: 120px;
+	left:0px;
+	padding:0;
+	position:absolute;
+	float:none;
+	margin-top:0px;
+	background-color: #2C2C2A;
+	width: 2000px;
+}
+
+#pic1{
+	position:absolute;
+	width: 522px;
+	left: 52px;
+	top: 272px;
+	height: 427px;
+	}
+
+#text{
+	position:absolute;
+	
+	color:#FFF;
+	width: 400px;
+	left: 680px;
+	top: 276px;
+
+}
+#text blockquote h3 {
+	text-align: center;
+	font-weight: bold;
+}
+#text blockquote h4 {
+	text-align: justify;
+}

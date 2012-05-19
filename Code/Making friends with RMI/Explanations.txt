@@ -1,0 +1,5 @@
+RMI MODELS EXPERIMENTED
+
+	>> M1 : Message recovery [from Wikipedia]
+	>> M2 : Chat
+	>> M3 : Introducing name identification on chat
